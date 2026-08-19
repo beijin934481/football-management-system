@@ -7,7 +7,8 @@ st.set_page_config(
 
 st.title("⚽ Football Management System")
 
-st.subheader("Player and Team Management Portal")
+st.subheader("Player, Team and Match Management Portal")
+st.info("Manage players, teams and upcoming football matches.")
 
 st.write("Welcome to the Football Management System.")
 st.write("Please login to continue managing your football team.")
